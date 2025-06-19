@@ -24,7 +24,6 @@ The project aims to analyze the manufacturing operation of a bicycles producer -
 ✔️ Data analysts & business analysts <br>
 ✔️ Recruiters
 
-
 ###  ❓Business Questions:  
 The project aims to solve questions: <br>
 - production efficiency of manufacturing process
@@ -32,7 +31,9 @@ The project aims to solve questions: <br>
 
 ### 🎯Project Outcome:  
 Here are insights after the analysis: <br>
-
+✔️ During the period of 2011-2014, the company successfully increased the annual output quantity, boosting the utilization rate of capacity. <br>
+✔️ All production locations meet the target production cost for all products. <br> 
+✔️ Subassembly and Final Assembly have really high overdue days.
 
 ---
 ## 📂 Dataset Description & Data Modeling
@@ -68,15 +69,37 @@ Table relationships:
 
 ---
 ## 📊 Key Insights & Visualizations
-#### Layout 1: 
+#### Layout 1: Production overview
 ![project 3 layout 1_page-0001](https://github.com/user-attachments/assets/c0a028bf-0fe2-4c02-a60c-1c82c9fbb6a7)
 
-#### Layout 2:
+Key insights as of 6/2014: <br>
+✔️ During the period of 2011-2014, the company successfully increased the annual output quantity, boosting the utilization rate of capacity. <br>
+✔️ Operating hours in 6/2014 have dropped significantly to only 7,300 hours, leading to the lowest utilization rate since the beginning of 2014.<br>
+✔️ Cycle time in 6/2014 also rises to the highest level at 1.68 days per product. It means that it takes longer to finish a product in comparison to previous months.
+
+#### Layout 2: Production efficiency analysis
 ![Layout 2_page-0001](https://github.com/user-attachments/assets/d6393931-c01e-483f-9f2c-a6d191a4a273)
 
-#### Layout 3:
+Key insights as of 6/2014: <br>
+✔️ All production locations meet the target production cost for all products. <br>
+✔️ Paint, Debur and Polish and Specialized Paint locations have the highest cycle time at 18, 16.7 and 14.8 days respectively. <br>
+✔️ Subassembly and Final Assembly have really high overdue days at 8000 and 7000 days.
+
+
+#### Layout 3: Quality control analysis
 ![Layout 3_page-0001](https://github.com/user-attachments/assets/93aeae3b-c3ca-4b54-b087-7cb4b60e5fc4)
 
+Key insights as of 6/2014: <br>
+✔️ The scrap rate increases in this month to 0.26%. <br>
+✔️ 100% scrap products come from Subassembly location. <br>
+✔️ 0.03% of products in Subassembly does not meet quality standards. The top three scrap reasons are Stress test failed, Primer process failed and Drill size too small.
 
 ---
 ## 🔎 Final Conclusion & Recommendations
+- Output quantity in 6/2014 drops significantly, leading to lower utilization rate of production capacity. <br>
+👉👉👉 The company should boost the output quantity in the next period to utilize the idle capacity and lower cost per unit.
+- So far, all production plants meet the target cost which is a really good performance. <br>
+- Subassembly and Final Assembly often miss the target finish date. <br>
+👉👉👉 The managers should either revise the production plan to reflect the reality or fix procedures to meet the target.
+- All scrap products of 6/2014 are from Subassembly. <br>
+👉👉👉 Technical teams should inspect procedures of this plant, especially checking the stress resistance, primer and drill size of products.
