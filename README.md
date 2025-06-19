@@ -37,31 +37,34 @@ Here are insights after the analysis: <br>
 ---
 ## 📂 Dataset Description & Data Modeling
 #### Dataset Description
-- Dataset is a part of AdventureWork2019 database retrieved from Google BigQuery. 
-- Dataset is of manufacturing department. It includes data about products, components of final products, production plants, production time and cost, output quantity, and scrap information.
-- It contains 2 fact tables and 7 dimension tables.
+Dataset is a part of AdventureWork2019 database retrieved from Google BigQuery. 
+
+Dataset is of manufacturing department. It includes data about products, components of final products, production plants, production time and cost, output quantity, and scrap information.
+
+It contains 2 fact tables and 7 dimension tables.
 
 - 2 fact tables: WorkOrder and WorkOrderRouting
-<img width="792" alt="image" src="https://github.com/user-attachments/assets/f4c07d18-620d-411f-9790-8c9c2cc448f2" /> 
-<img width="782" alt="image" src="https://github.com/user-attachments/assets/851ac2e2-8792-4154-8775-1cdcd09ca5d5" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/f4c07d18-620d-411f-9790-8c9c2cc448f2" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/851ac2e2-8792-4154-8775-1cdcd09ca5d5" />
 
 - 5 dimension tables:
-<img width="771" alt="image" src="https://github.com/user-attachments/assets/22da4fef-1c31-4e7f-a15f-b089b6134287" /> 
-<img width="768" alt="image" src="https://github.com/user-attachments/assets/949e9339-2823-4250-9ea8-1db80b7a7802" /> 
-<img width="740" alt="image" src="https://github.com/user-attachments/assets/11d6d11a-665c-4c8e-b5b5-3184bed2236e" /> 
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/ac259bb3-d17c-4884-aff6-8f3071aa9ee5" /> 
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/ae183fac-3502-40ce-933e-a8184ada052b" /> 
-<img width="733" alt="image" src="https://github.com/user-attachments/assets/c05298ae-7c8b-40b6-abb3-e84cba79978b" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/22da4fef-1c31-4e7f-a15f-b089b6134287" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/949e9339-2823-4250-9ea8-1db80b7a7802" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/11d6d11a-665c-4c8e-b5b5-3184bed2236e" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ac259bb3-d17c-4884-aff6-8f3071aa9ee5" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ae183fac-3502-40ce-933e-a8184ada052b" /> 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/c05298ae-7c8b-40b6-abb3-e84cba79978b" /> 
 
 
 
 #### Data Modeling
 DimDate is a custom date table created by the author.
 
-![image](https://github.com/user-attachments/assets/00c554f2-7953-4730-b578-e52cb702bdd0)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/00c554f2-7953-4730-b578-e52cb702bdd0" /> <br>
 
 Table relationships:
-![image](https://github.com/user-attachments/assets/86e2f79f-1ede-48b7-820e-d84dd6bb252a)
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/86e2f79f-1ede-48b7-820e-d84dd6bb252a" />
 
 ---
 ## 📊 Key Insights & Visualizations
