@@ -61,6 +61,7 @@ DimDate is a custom date table created by the author.
 ![image](https://github.com/user-attachments/assets/00c554f2-7953-4730-b578-e52cb702bdd0)
 
 Table relationships:
+![image](https://github.com/user-attachments/assets/86e2f79f-1ede-48b7-820e-d84dd6bb252a)
 
 ---
 ## 📊 Key Insights & Visualizations
