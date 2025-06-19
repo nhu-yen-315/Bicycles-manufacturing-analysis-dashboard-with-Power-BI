@@ -1,5 +1,8 @@
 # 📊 Project title: Bicycles manufacturing analysis dashboard with Power BI
 
+![image](https://github.com/user-attachments/assets/61d18000-d346-45a7-a424-a1e9b2f43735)
+
+
 Author: Huỳnh Như Yến  
 Date: 14/6/2025 <br>
 Tool Used: Power BI
