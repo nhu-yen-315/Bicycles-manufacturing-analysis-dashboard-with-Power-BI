@@ -1,4 +1,4 @@
-# 📊 Project title: Bicycles manufacturing analysis dashboard with Power BI
+# 📊 Analyze operation performance at Adventureworks - bicyle manufacturer with Power BI
 
 ![image](https://github.com/user-attachments/assets/61d18000-d346-45a7-a424-a1e9b2f43735)
 
